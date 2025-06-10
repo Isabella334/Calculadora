@@ -1,5 +1,7 @@
+import styles from "./Display.module.css"
+
 const Display = ({value}: {value: string}) => {
-  return <div>{value}</div>
+  return <div className={styles.display}>{value}</div>
 }
 
 export default Display
