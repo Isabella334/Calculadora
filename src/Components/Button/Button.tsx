@@ -7,7 +7,7 @@ const Button = ({label, onClick}: {
   return (
     <div className={styles.buttonContainer}>
       <span className={styles.label}>{label}</span>
-      <button className={styles.pillButton} onClick={onClick}></button>
+      <button className={styles.pillButton} onClick={onClick}>{label}</button>
     </div>
   )
 }
