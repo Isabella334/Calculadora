@@ -1,7 +1,8 @@
 .calc {
-  width: 350px;
+  width: 550px;
   height: 550px;
   background: green;
+  padding: 50px;
 }
 
 .wrapper {

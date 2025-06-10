@@ -1,11 +1,12 @@
 .buttonContainer {
   display: flex;
   align-items: center;
-  gap: 8px; 
+  gap: 10px; 
+  padding: 0;
 }
 
 .label {
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .pillButton {
