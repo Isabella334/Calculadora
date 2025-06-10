@@ -9,6 +9,7 @@
 body {
   width: 100vw;
   height: 100vh;
+  background-color: #E4801E;
   display: flex;
   font-family: 'Orbitron';
   justify-content: center;
